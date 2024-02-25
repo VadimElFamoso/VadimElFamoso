@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Khenfer Vadim "Vadim2k" 🫡🥖🇫🇷</h1>
+<h1 align="center">Khenfer Vadim "Vadim2k" anciennement "Composteur" 🫡🥖🇫🇷</h1>
 
 ###
 
