@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Développeur web passionné depuis déjà 10 ans ! 🖖🤌</h2>
+<h2 align="center">Etudiant en B.U.T MMI et développeur web passionné depuis déjà 10 ans ! 🖖🤌</h2>
 
 ###
 
