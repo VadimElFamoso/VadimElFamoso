@@ -25,7 +25,7 @@
 
 ###
 
-<p align="center">Depuis 10 ans, je développe une multitude de projets à l'aide de diverses technos que j'ai su maîtriser à travers le temps. Anciennement développeur Java Bukkit, je me suis  reconverti depuis 2017 au développement web et plus particulièrement au développement web sidé créatif car oui le web c'est avant toute chose de l'art !</p>
+<p align="center">Depuis 10 ans, je développe une multitude de projets à l'aide de diverses technos que j'ai su maîtriser à travers le temps. Anciennement développeur Java Bukkit, je me suis reconverti depuis 2017 au développement web !</p>
 
 ###
 
