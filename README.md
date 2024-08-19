@@ -33,7 +33,7 @@
 
 ###
 
-<p align="center">✨ Développeur depuis 2014 (j'ai commencé à dev en java, pas la meilleure idée, je le conçois..)<br><br>📚 Je travaille actuellement sur : <br>- Le revamp de mon portfolio 👀 : sortie prévue pour Juin 2024.<br>- Monrepas.shop🧑‍🍳 : Un outil web dédié aux professionnels de la restauration.<br>- Flinko 🩷 : Un petit SAAS style Linktree réalisé avec des collègues de MMI !<br><br>🎯 Objectifs : Une vie professionnelle épanouissante parsemée de projets passionnants !<br><br>Commission : CLOSED UNTIL JULY ❌<br>(contact via discord only > Vadim!XD)</p>
+<p align="center">✨ Développeur depuis 2014 (j'ai commencé à dev en java, pas la meilleure idée, je le conçois..)<br><br>📚 Je travaille actuellement sur : <br>- Le revamp de mon portfolio 👀 : sortie prévue pour Juin 2024.<br>- Monrepas.shop🧑‍🍳 : Un outil web dédié aux professionnels de la restauration.<br>- Flinko 🩷 : Un petit SAAS style Linktree réalisé avec des collègues de MMI !<br><br>🎯 Objectifs : Une vie professionnelle épanouissante parsemée de projets passionnants !<br><br>Commission : OPEN ✅<br>(contact via discord only > Vadim!XD)</p>
 
 ###
 
